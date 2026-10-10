@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+local_db/
+tools/
+candidate_kit/
+.pytest_cache/
